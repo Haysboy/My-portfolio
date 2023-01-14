@@ -25,3 +25,6 @@
 - :zap: I have also learned from experience: HTML, CSS, JS, C#, SQL, C, bash, GNU AS, Assembler intel
 
 
+---
+
+### :hammer_and_wrench: Languages and Tools
